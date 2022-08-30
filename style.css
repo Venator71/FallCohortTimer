@@ -1,0 +1,112 @@
+html {
+    background-color: gray;
+}
+
+
+#html {
+   width: 100%;
+   height: 100%;
+   object-fit: fill;
+   
+}
+
+
+
+.gift-image {
+    
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.gift-info .cohort {
+    
+    top: 0;
+    left: 0;
+    align-content: center;
+    justify-content: center;
+    font-size: 50px;
+    color: rgb(24, 43, 218);
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.gift-info .giveaway {
+
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    text-decoration: solid;
+}
+.days, .hours, .minutes, .seconds {
+    color: white;
+}
+p { 
+    margin: 50px;
+    font-size: 20px;
+    color: navy;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    
+    
+    height: 250px;
+    width: 250px;
+}
+
+a {
+    color: navy;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 20px;
+}
+.deadline {
+    display: flex;
+    font-size: 40px;
+    margin: 50px;
+    justify-content: space-around;
+    height: 202px;    
+}
+.deadline div {
+    width: 150px;
+    height: 200px;
+    border: 2px black solid;
+    background-color: rgb(24, 43, 218);
+    
+}
+
+.days {
+    display: flex;
+    justify-content: center;
+    
+   
+}
+
+.hours {
+    display:flex;
+    justify-content: center;
+}
+
+.minutes {
+    display: flex;
+    justify-content: center;
+}
+
+.seconds {
+
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
